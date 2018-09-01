@@ -41,6 +41,7 @@ C# とする。
 - UML
 - C#
 - GitHub
+   - Organization Account
 - UI 要素
    - 見た目の表示
       - Xamarin
@@ -67,11 +68,19 @@ C# とする。
    - PDF
    - HTML
    - 印刷
-- GUI での差分確認
+- GUI での UML ファイル同士の差分確認
 - CI
    - appveyor など
+       - Organization Account
+       - ビルドバイナリの提供
    - msbuild
    - 静的解析
+- ドキュメント
+   - 開発者向け
+      - Markdown
+       - ツール自身の構造を説明する UML 文書
+           - PlantUML を markdown で使えるか?
+    - ユーザー向け
 - テスト
    - 単体テスト
        - NUnit
